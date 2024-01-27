@@ -1,0 +1,18 @@
+{
+    "name": "moohamedmahfouz/inspire",
+    "description": "you'll receive a random inspirational quote upon visiting the /inspire route.",
+    "autoload": {
+        "psr-4": {
+            "MOohamedMahfouz\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MOohamedMahfouz",
+            "email": "mouhamadmahfouz20@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
